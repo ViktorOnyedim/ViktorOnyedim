@@ -1,10 +1,9 @@
 # 🏄‍♂️ Victor Onyedim
 
-**`Veekode (Machine Learning Engineer | Software Engineer | Content Creator)`**
+**`Veekode (Machine Learning Engineer | Software Engineer)`**
 
 I'm a Full-Stack Software Engineer and Machine Learning Engineer with 4+ years of experience building scalable, user-friendly web applications and developing machine learning solutions. I have a deep passion for solving problems using technology and leveraging my skills to make an impact in fields like medical physics, machine learning, and web development.
 
- I publish contents on my YouTube channel "[Veekode][youtube]".
 
 <!-- Social icons section -->
 <p align="center">
@@ -21,10 +20,10 @@ I'm a Full-Stack Software Engineer and Machine Learning Engineer with 4+ years o
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.youtube.com/c/veekode?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-</p>
+</p> -->
 
 <br/>
 
