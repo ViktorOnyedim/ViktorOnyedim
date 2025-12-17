@@ -1,6 +1,6 @@
 # 🏄‍♂️ Victor Onyedim
 
-**`Veekode (Machine Learning Engineer | Software Engineer)`**
+**`Veekode (Software Engineer | Machine Learning Engineer)`**
 
 I'm a Full-Stack Software Engineer and Machine Learning Engineer with experience building scalable, user-friendly web applications and developing machine learning solutions. I have a deep passion for solving problems using technology and leveraging my skills to make an impact in fields like medical physics, machine learning, and web development.
 
@@ -48,7 +48,6 @@ I'm a Full-Stack Software Engineer and Machine Learning Engineer with experience
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-      <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
       <!--<a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>-->
       <a href="#"><img alt="Shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff"></a>
       <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white"></a>
@@ -70,7 +69,6 @@ I'm a Full-Stack Software Engineer and Machine Learning Engineer with experience
       <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"></a>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-      <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
       <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
